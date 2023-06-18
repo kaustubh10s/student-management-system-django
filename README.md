@@ -1,2 +1,11 @@
 # student-management-system-django
-![image](https://github.com/kaustubh10s/student-management-system-django/assets/86242916/7197ec32-9b73-4797-a04d-1cab26e58a04)
+
+
+A simple student management system website in Django.
+
+Features:
+-Store student records
+-Add, View, Delete a student record
+
+![image](https://github.com/kaustubh10s/student-management-system-django/assets/86242916/65a11abf-8f98-4813-a471-1774b58661e3)
+
